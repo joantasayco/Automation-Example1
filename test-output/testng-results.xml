@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="120989" started-at="2018-10-08T17:40:40Z" finished-at="2018-10-08T17:42:41Z">
+    <groups>
+    </groups>
+    <test name="testHome" duration-ms="120989" started-at="2018-10-08T17:40:40Z" finished-at="2018-10-08T17:42:41Z">
+      <class name="Test.testHome">
+        <test-method status="PASS" signature="inicioClase(java.lang.String)[pri:0, instance:Test.testHome@14acaea5]" name="inicioClase" is-config="true" duration-ms="7105" started-at="2018-10-08T17:40:40Z" finished-at="2018-10-08T17:40:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inicioClase -->
+        <test-method status="PASS" signature="buscar_flujobasico()[pri:0, instance:Test.testHome@14acaea5]" name="buscar_flujobasico" duration-ms="58331" started-at="2018-10-08T17:40:47Z" finished-at="2018-10-08T17:41:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buscar_flujobasico -->
+        <test-method status="PASS" signature="registro_usuario()[pri:0, instance:Test.testHome@14acaea5]" name="registro_usuario" duration-ms="54145" started-at="2018-10-08T17:41:46Z" finished-at="2018-10-08T17:42:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registro_usuario -->
+        <test-method status="PASS" signature="finClase()[pri:0, instance:Test.testHome@14acaea5]" name="finClase" is-config="true" duration-ms="1346" started-at="2018-10-08T17:42:40Z" finished-at="2018-10-08T17:42:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finClase -->
+      </class> <!-- Test.testHome -->
+    </test> <!-- testHome -->
+  </suite> <!-- Suite -->
+</testng-results>
