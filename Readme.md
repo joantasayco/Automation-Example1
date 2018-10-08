@@ -6,12 +6,18 @@
 
 ## Installation
 
-> Instalar Java (JDK) ultima versión
+> 1. Instalar Java (JDK) ultima versión
 
-> Instalar un IDE para el desarrollo del script, por ejemplo Eclipse, NetBeans, etc.
+> 2. Instalar un IDE para el desarrollo del script, por ejemplo Eclipse, NetBeans, etc.
 
-> Instalar la libreria TestNG.
+> 3. Instalar la libreria TestNG.
 
-> Instalar la libreria selenium para java.
+> 4. Instalar la libreria selenium para java.
 
-> Instalar Maven para Java (esto es opcional)
+> 5. Instalar Maven para Java (esto es opcional)
+
+> 6. Listo, ya podemos crear nuestros script automation con Pagina (Page) y Test
+
+> 7. En el archivo testng.xml configuramos nuestros parametros como navegador.
+
+> 8. Hacer clic derecho en el archivo testng.xml y seleccionar Run>TestNg Suite
